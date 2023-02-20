@@ -800,6 +800,7 @@
     "yocto-queue": "^0.1.0"
   },
   "devDependencies": {
+    "@types/react": "^18.0.28",
     "gh-pages": "^5.0.0"
   },
   "scripts": {
